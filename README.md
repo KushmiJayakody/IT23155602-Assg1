@@ -30,5 +30,7 @@ Before running the tests, ensure you have the following installed:
   Run tests in headed mode (to see the browser):npx playwright test --headed
 
 6 Run a specific test file:npx playwright test tests/positivetest.spec.js
+                           npx playwright test tests/negativetest.spec.js
+                           npx playwright test tests/uitestspec.js
 
 7 After running the tests, a detailed HTML report is generated:npx playwright show-report
