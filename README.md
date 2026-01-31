@@ -19,7 +19,7 @@ Before running the tests, ensure you have the following installed:
    ```bash
    git clone https://github.com/KushmiJayakody/IT23155602-Assg1.git
 
-2 Navigate to the project directory:cd IT23155602-Assg1
+2 Navigate to the project directory:cd IT23155602
 
 3 Install necessary dependencies:npm install
 
